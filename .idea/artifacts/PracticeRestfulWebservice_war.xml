@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PracticeRestfulWebservice:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>PracticeRestfulWebservice</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="PracticeRestfulWebservice-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="PracticeRestfulWebservice:war exploded" />
+    </root>
+  </artifact>
+</component>
